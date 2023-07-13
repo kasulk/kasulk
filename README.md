@@ -1,34 +1,3 @@
-# This is My Very First Markup-Heading
-Great! 
-
-## My Second Heading 
-My name is Daniel 🦄
-
-### My Interests
-1. Coding
-2. Audiocomedy
-3. Sports
-4. Finances
-
-### This is a Unordered List
-- Awesome!
-- really!!
-
-### Link to a Page
-My favorite website is [this](https://www.danielkaser.de/code).
-
-### My Favorite Code
-``` js
-for (element of readers) {
-  if (element.isNice) {
-    console.log("😘")
-  }
-}
-```
-
-### My Favorite Food 
-🍔🍟🌭☕🍫
-
 ### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,ts,tailwind,git,github)](https://skillicons.dev)
@@ -109,3 +78,23 @@ on my bucket list:
 <!--- ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) -->
 <!--- ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) -->
 <!--- ![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) -->
+
+### My Favorite Food 
+🍔🍟🌭☕🍫
+
+### My Favorite Code
+``` js
+for (element of readers) {
+  if (element.isNice) {
+    console.log("😘")
+  }
+}
+```
+
+### This is a Unordered List
+- Awesome!
+- really!!
+
+### Link to a Page
+My favorite website is [this](https://www.danielkaser.de/code).
+
