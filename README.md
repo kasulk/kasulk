@@ -1,3 +1,8 @@
+<!-- MORE ICONS & BADGES -->
+<!--- https://github.com/Ileriayo/markdown-badges -->
+<!--- https://github.com/tandpfun/skill-icons -->
+
+
 ### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,ts,tailwind,git,github)](https://skillicons.dev)
