@@ -75,7 +75,7 @@ on my bucket list:
 
 
 ### Contact
-<a href="https://linkedin.com/in/schokoladenpo" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/kasulk" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!--- [![Contact](https://skillicons.dev/icons?i=instagram,linkedin,twitter)](https://skillicons.dev) -->
 
