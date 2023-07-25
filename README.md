@@ -5,7 +5,7 @@
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,ts,tailwind,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,nodejs,ts,tailwind,git,github)](https://skillicons.dev)
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
 <!--- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) -->
