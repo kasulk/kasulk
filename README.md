@@ -103,3 +103,11 @@ for (element of readers) {
 ### Link to a Page
 My favorite website is [this](https://www.danielkaser.de/code).
 
+![Codewars](https://github.r2v.ch/codewars?user=kasulk&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level)
+
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=kasulk" />
+    </a>
+</p>
+
