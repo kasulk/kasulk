@@ -106,7 +106,7 @@ My favorite website is [this](https://www.danielkaser.de/code).
 
 <p align="center" >
     <a href="https://www.codewars.com/users/kasulk">
-      <img src="https://github.r2v.ch/codewars?user=kasulk&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level&hide_clan=true" height="128" />
+      <img src="https://github.r2v.ch/codewars?user=kasulk&top_languages=true&stroke=%23b362ff&theme=gradient_dark_by_level&hide_clan=true" height="256" />
     </a>
 </p>
 
