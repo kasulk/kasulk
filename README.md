@@ -101,7 +101,7 @@ for (element of readers) {
 - really!!
 
 ### Link to a Page
-My favorite website is [this](https://www.danielkaser.de/code).
+My favorite website is [this](https://www.danielkaser.de).
 
 <br/>
 <p align="left" >
