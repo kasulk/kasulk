@@ -1,6 +1,7 @@
 <!-- MORE ICONS & BADGES -->
-<!--- https://github.com/Ileriayo/markdown-badges -->
 <!--- https://github.com/tandpfun/skill-icons -->
+<!--- https://github.com/Ileriayo/markdown-badges -->
+
 
 
 ### Technologies
@@ -14,7 +15,7 @@
 
 on my bucket list:
 
-[![My Skills](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,vite)](https://skillicons.dev)
 <!--- [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,mongodb,ts,tailwind,svelte)](https://skillicons.dev) -->
 
 <!--- [![My Skills](https://skillicons.dev/icons?i=bootstrap,pr,regex)](https://skillicons.dev) -->
