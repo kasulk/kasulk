@@ -90,11 +90,7 @@ on my bucket list:
 
 ### My Favorite Code
 ``` js
-for (element of readers) {
-  if (element.isNice) {
-    console.log("😘")
-  }
-}
+readers.map(reader => reader.isNice ? 😘 : null)
 ```
 
 ### This is a Unordered List
