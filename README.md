@@ -6,19 +6,16 @@
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,nodejs,ts,tailwind,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,mongodb,nodejs,ts,tailwind,git,github,regex)](https://skillicons.dev)
+
+HTML &#x2022; CSS &#x2022; JavaScript &#x2022; React &#x2022; Next.js &#x2022; MongoDB &#x2022; Node.js &#x2022; TypeScript &#x2022; Tailwind &#x2022; Git &#x2022; GitHub &#x2022; RegEx
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
-<!--- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) -->
-
-<!--- [![My Skills](https://skillicons.dev/icons?i=wordpress,ps)](https://skillicons.dev) -->
-
-on my bucket list:
+#### on my bucket list:
 
 [![My Skills](https://skillicons.dev/icons?i=svelte,vite)](https://skillicons.dev)
-<!--- [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,mongodb,ts,tailwind,svelte)](https://skillicons.dev) -->
 
-<!--- [![My Skills](https://skillicons.dev/icons?i=bootstrap,pr,regex)](https://skillicons.dev) -->
+Svelte/SvelteKit &#x2022; Vite
 
 ### Tools
 
