@@ -10,9 +10,9 @@
 
 JavaScript &#x2022; React &#x2022; Next.js &#x2022; TypeScript &#x2022; Tailwind &#x2022; HTML5 &#x2022; CSS3
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,git,github,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,git,github,regex,jest)](https://skillicons.dev)
 
-MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; RegEx
+MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; RegEx &#x2022; Jest
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
 #### on my bucket list:
