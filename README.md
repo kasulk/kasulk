@@ -117,3 +117,12 @@ My favorite website is [this](https://www.danielkaser.de).
     </a>
 </p>
 
+<!--
+<br/>
+<p align="left">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kasulk&show_icons=true&count_private=true&theme=gradient_light_by_level&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kasulk&layout=compact&hide_border=true&theme=gradient_light_by_level&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kasulk&theme=gradient_light_by_level&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
+-->
