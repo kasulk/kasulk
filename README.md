@@ -15,13 +15,13 @@ JavaScript &#x2022; React &#x2022; Next.js &#x2022; TypeScript &#x2022; Tailwind
 MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; RegEx &#x2022; Jest
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
-#### on my bucket list:
+#### My bucket list:
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,svelte)](https://skillicons.dev)
 
-Svelte/SvelteKit &#x2022; Vite
+Astro &#x2022; Svelte/SvelteKit
 
-### Tools
+### Tools I use
 
 ![MS Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
@@ -52,6 +52,7 @@ Svelte/SvelteKit &#x2022; Vite
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
