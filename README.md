@@ -1,6 +1,10 @@
 <!-- MORE ICONS & BADGES -->
-<!--- https://github.com/tandpfun/skill-icons -->
-<!--- https://github.com/Ileriayo/markdown-badges -->
+<!--- 
+https://github.com/tandpfun/skill-icons
+-->
+<!--- 
+https://github.com/Ileriayo/markdown-badges
+-->
 
 
 
