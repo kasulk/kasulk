@@ -10,7 +10,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 JavaScript &#x2022; React &#x2022; Next.js &#x2022; TypeScript &#x2022; Tailwind &#x2022; HTML5 &#x2022; CSS3
 
