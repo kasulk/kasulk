@@ -8,7 +8,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 
-### Technologies
+## My TechStack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
@@ -19,13 +19,13 @@ JavaScript &#x2022; React &#x2022; Next.js &#x2022; TypeScript &#x2022; Tailwind
 MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; Styled Components &#x2022; RegEx &#x2022; Jest
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
-#### My bucket list:
+### My bucket list:
 
 [![My Skills](https://skillicons.dev/icons?i=astro,svelte)](https://skillicons.dev)
 
 Astro &#x2022; Svelte/SvelteKit
 
-### Tools I use(d)
+## Tools I use(d)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -107,7 +107,7 @@ Astro &#x2022; Svelte/SvelteKit
 ![McDonalds](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
 
 
-### Contact
+## Contact
 <a href="https://linkedin.com/in/kasulk" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!--- [![Contact](https://skillicons.dev/icons?i=instagram,linkedin,twitter)](https://skillicons.dev) -->
@@ -117,19 +117,19 @@ Astro &#x2022; Svelte/SvelteKit
 <!--- ![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white) -->
 <!--- ![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) -->
 
-### My Favorite Food 
-🍔🍟🌭☕🍫
+## My Favorite Food 
+🧀
 
-### My Favorite Code
+## My Favorite Code
 ``` js
-readers.map(reader => reader.isNice ? 😘 : null)
+readers.map(reader => reader.isNice ? 😘 : moon())
 ```
 
-### This is a Unordered List
+## This is a Unordered List
 - Awesome!
 - really!!
 
-### Link to a Page
+## Link to a Page
 My favorite website is [this](https://www.danielkaser.de).
 
 <br/>
