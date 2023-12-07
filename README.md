@@ -122,7 +122,7 @@ Astro &#x2022; Svelte/SvelteKit
 
 ## My Favorite Code
 ``` js
-readers.map(reader => reader.isNice ? 😘 : moon())
+readers.map(reader => reader.isNice ? 😘 : 🌵)
 ```
 
 ## This is a Unordered List
