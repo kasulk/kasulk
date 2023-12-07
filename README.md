@@ -19,13 +19,19 @@ JavaScript &#x2022; React &#x2022; Next.js &#x2022; TypeScript &#x2022; Tailwind
 MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; Styled Components &#x2022; RegEx &#x2022; Jest
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
-### My bucket list:
+### Under Inspection
+
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+Docker
+
+### My Bucket List
 
 [![My Skills](https://skillicons.dev/icons?i=astro,svelte)](https://skillicons.dev)
 
 Astro &#x2022; Svelte/SvelteKit
 
-## Tools I use(d)
+## Tools I Use(d)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
