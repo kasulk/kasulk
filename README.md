@@ -138,12 +138,16 @@ readers.map(reader => reader.isNice ? 😘 : 🌵)
 ## Link to a Page
 My favorite website is [this](https://www.danielkaser.de).
 
-<br/>
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasulk&layout=compact&theme=transparent&hide_border=true)
+
+## Codewars Stats
 <p align="left" >
     <a href="https://www.codewars.com/users/kasulk">
-      <img src="https://github.r2v.ch/codewars?user=kasulk&top_languages=true&stroke=%23b362ff&theme=gradient_light_by_level&hide_clan=true" height="128" />
+      <img src="https://github.r2v.ch/codewars?user=kasulk&top_languages=true&stroke=%23b362ff&theme=gradient_light_by_level&hide_clan=true" height="192" />
     </a>
 </p>
+
 
 <!--
 <br/>
