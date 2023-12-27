@@ -12,18 +12,18 @@ https://github.com/Ileriayo/markdown-badges
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
-JavaScript &#x2022; React &#x2022; Next.js &#x2022; TypeScript &#x2022; Tailwind &#x2022; HTML5 &#x2022; CSS3
+JavaScript &#x2022; TypeScript &#x2022; React &#x2022; Next.js &#x2022; Tailwind &#x2022; HTML5 &#x2022; CSS3
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,git,github,styledcomponents,regex,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,git,github,styledcomponents,regex,jest,docker)](https://skillicons.dev)
 
-MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; Styled Components &#x2022; RegEx &#x2022; Jest
+MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; Styled Components &#x2022; RegEx &#x2022; Jest &#x2022; Docker
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
-### Under Inspection
-
+<!--
+### Under Inspection 
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
-Docker
+Docker 
+-->
 
 ### My Bucket List
 
@@ -64,6 +64,7 @@ Astro &#x2022; Svelte/SvelteKit
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
