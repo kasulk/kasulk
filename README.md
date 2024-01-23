@@ -8,7 +8,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 
-## My TechStack
+## My Specialties
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
@@ -24,12 +24,13 @@ MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; Styled Components
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 Docker 
 -->
-
+<!--
 ### My Bucket List
 
 [![My Skills](https://skillicons.dev/icons?i=astro,svelte)](https://skillicons.dev)
 
 Astro &#x2022; Svelte/SvelteKit
+-->
 
 ## Tools I Use(d)
 
