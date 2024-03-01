@@ -14,9 +14,9 @@ https://github.com/Ileriayo/markdown-badges
 
 JavaScript &#x2022; TypeScript &#x2022; React &#x2022; Next.js &#x2022; Tailwind &#x2022; HTML5 &#x2022; CSS3
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,git,github,styledcomponents,regex,jest,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nodejs,git,github,styledcomponents,jest,regex)](https://skillicons.dev)
 
-MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; Styled Components &#x2022; RegEx &#x2022; Jest &#x2022; Docker
+MongoDB &#x2022; Node.js &#x2022; Git &#x2022; GitHub &#x2022; Styled Components &#x2022; Jest &#x2022; RegEx
 <!--- [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) -->
 
 <!--
