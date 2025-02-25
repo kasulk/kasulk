@@ -151,7 +151,7 @@ My favorite website is [this](https://www.danielkaser.de).
     </a>
 </p>
 
-[Top40 in TypeScript](https://www.codewars.com/users/leaderboard/ranks?language=typescript) 💪
+[Top30 in TypeScript](https://www.codewars.com/users/leaderboard/ranks?language=typescript) 💪
 
 <!--
 <br/>
